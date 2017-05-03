@@ -1,0 +1,25 @@
+.flash {
+    text-decoration: none;
+    width: 100%;
+}
+
+.flash li {
+    list-style-type: none;
+    text-align: center;
+}
+
+.flash .success {
+    color: #B12230;
+}
+
+.flash .info {
+    color: #3F48CC;
+}
+
+.flash .error {
+    color: #CCA83F;
+}
+
+.errors {
+    color: #FF0000;
+}
